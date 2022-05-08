@@ -36,8 +36,6 @@ After downloading these datasets, extract them to the corresponding directories.
 
 [DailyDialog&PERSONA-CHAT(Annotated)](https://drive.google.com/drive/folders/1Y0Gzvxas3lukmTBdAI6cVC4qJ5QM0LBt?usp=sharing)
 
-[FED](http://shikib.com/fed_data.json) 
-
 We slightly pre-process the datasets so that they have a uniform format. The pre-processed data can be found in ./datasets/
 
 
